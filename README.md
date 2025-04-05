@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">💁An aspiring Data Scientist/Machine Learning Engineer.<br>✨ I’m currently working on [Github Projects] that applies data analysis and machine<br>learning(https://github.com/HenrySsali)  <br>📕 Now focusing into  learning Deep Learning methodologies.<br>📚 Any ideas or collaboration on my <br>       projects are highly appreciated.</p>
+<p align="left">💁An aspiring Data Scientist/Machine Learning Engineer.<br>✨ I’m currently working on [Github Projects] that applies data analysis and 
+   machine learning(https://github.com/HenrySsali)  <br>📕 Now focusing into  learning Deep Learning methodologies.<br>📚 Any ideas or collaboration on my <br>       projects are highly appreciated.</p>
 
 ###
 
@@ -34,7 +35,7 @@
 
 ###
 
-<h2 align="left">SOCIALS .</h2>
+<h2 align="left">Socials .</h2>
 
 ###
 
@@ -54,34 +55,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenrySsali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/HenrySsali/HenrySsali/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="https://raw.githubusercontent.com/HenrySsali/HenrySsali/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/HenrySsali/HenrySsali/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
