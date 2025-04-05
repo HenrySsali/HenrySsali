@@ -11,7 +11,8 @@
 ###
 
 <p align="left">💁An aspiring Data Scientist/Machine Learning Engineer.<br>✨ I’m currently working on [Github Projects] that applies data analysis and 
-   machine learning(https://github.com/HenrySsali)  <br>📕 Now focusing into  learning Deep Learning methodologies.<br>📚 Any ideas or collaboration on my <br>       projects are highly appreciated.</p>
+   machine learning(https://github.com/HenrySsali)  <br>📕 Now focusing into  learning Deep Learning methodologies.<br>📚 Any ideas or collaboration on my        
+   projects are highly appreciated.</p>
 
 ###
 
