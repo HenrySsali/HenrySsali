@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💁AI Researcher | Business Analyst|Data Scientist.<br>✨ I’m currently working on [Github Projects] that applies data analysis and 
+<p align="left">💁Data Enthusiast.<br>✨ I’m currently working on [Github Projects] that applies data analysis and 
    machine learning(https://github.com/HenrySsali)  <br>📕 Now focusing into  learning Deep Learning methodologies.<br>📚 Any ideas or collaboration on my        
    projects are highly appreciated.</p>
 
